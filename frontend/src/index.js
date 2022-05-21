@@ -10,7 +10,6 @@ root.render(
   </React.StrictMode>
 );
 
-
 ///
 /////
 /////////// DEFAULT CODE ARE BELOW OK
